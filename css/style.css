@@ -8,7 +8,7 @@
 
 body {
     font-family: sans-serif;
-    background: url('/portfolio/img/back.jpg') center;
+    background: url('/img/back.jpg') center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
